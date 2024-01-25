@@ -1,2 +1,2 @@
 # py-playground
-sandbox environment for me to experiment with pythin
+sandbox environment for me to experiment with python
